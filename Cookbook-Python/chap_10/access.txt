@@ -1,0 +1,11 @@
+Consumer Key (API Key)	T4afJ8JtkGuDdkCkN0q1zpxs9
+Consumer Secret (API Secret)	Rl5tXrGt0rqanaBSYOIc3LIjNFbVlImKPYATXl7i7nGaFxHdk6
+Access Level	Read and write (modify app permissions)
+Owner	Nathankz
+Owner ID	215666419
+
+Access Token	215666419-NsFtzS9ajR3YYfUx6scDAzbCI2oDp6attMoMf3IG
+Access Token Secret	NiTMzyhQrGRQCFy6UxNbnant09Lwn2AD8UADF1KRbbOpX
+Access Level	Read and write
+Owner	Nathankz
+Owner ID	215666419
